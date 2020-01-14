@@ -1,0 +1,58 @@
+﻿빌드 시작: 2016-06-11 오후 10:30:28
+     1>2 노드의 "c:\Users\수원\documents\visual studio 2010\Projects\최종\최종.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\최종.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 1.c
+         1.c
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(71): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(85): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(130) : 'kbhit' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(87): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(88): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(105): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(130) : 'kbhit' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(107): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(109): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(576): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(578): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(583): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(567): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(600): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(601): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(606): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(589): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(627): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>c:\users\수원\documents\visual studio 2010\projects\최종\1.c(642): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\최종.exe.embed.manifest.res" "Debug\최종_manifest.rc" 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\수원\documents\visual studio 2010\Projects\최종\Debug\최종.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\최종.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\수원\documents\visual studio 2010\Projects\최종\Debug\최종.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\수원\documents\visual studio 2010\Projects\최종\Debug\최종.lib" /MACHINE:X86 "Debug\최종.exe.embed.manifest.res"
+         Debug\1.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\최종.exe.embed.manifest" /manifest "Debug\최종.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\최종.exe.embed.manifest.res" "Debug\최종_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\수원\documents\visual studio 2010\Projects\최종\Debug\최종.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\최종.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\수원\documents\visual studio 2010\Projects\최종\Debug\최종.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\수원\documents\visual studio 2010\Projects\최종\Debug\최종.lib" /MACHINE:X86 "Debug\최종.exe.embed.manifest.res"
+         Debug\1.obj
+         최종.vcxproj -> c:\users\수원\documents\visual studio 2010\Projects\최종\Debug\최종.exe
+       FinalizeBuildStatus:
+         "Debug\최종.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\최종.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"c:\Users\수원\documents\visual studio 2010\Projects\최종\최종.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.70
